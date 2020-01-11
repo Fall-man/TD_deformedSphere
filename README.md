@@ -1,3 +1,3 @@
 # TD_deformedSphere
 
-! [image](../thumb-nail.jpg)
+! [image](thumb-nail.jpg)
